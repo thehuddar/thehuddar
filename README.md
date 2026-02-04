@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an Application Developer at **Oracle Financial Services Solutions** with hands-on experience in Linux server administration, WebLogic domain management, automation, and database performance tuning. I specialize in supporting high-availability environments and building scalable full-stack applications.
+With hands-on experience in Linux server administration, WebLogic domain management, automation, and database performance tuning. I specialize in supporting high-availability environments and building scalable full-stack applications.
 
 - 🔭 Currently working on **WebLogic Server deployments, automation, and database optimization**
 - 🌱 Experienced in **CI/CD pipelines, containerization (Docker/Kubernetes), and cloud platforms (AWS/Azure)**
